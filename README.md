@@ -1,6 +1,6 @@
 # ImageStabilization-Toolbox
 
-This toolbox contain the neccessary scripts to stabilize an image-sequence.
+This toolbox contains the neccessary scripts to stabilize an image-sequence.
 
 The order in which the scripts should be used are indicated with numbers inside brackets.
          
