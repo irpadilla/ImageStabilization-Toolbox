@@ -67,6 +67,7 @@ ylabel('v [pixels]');
 %% Zone Selection %%
 
 % Select the corresponding zone (4 points) around the keypoint allowing for some inter-frame movement
+% 1st point should be top-left, 2nd point bottom-left, 3rd point bottom-right and 4th point top-right
 [Z.u Z.v] = ginput;
 figure(f1)
 set(gcf,'color','w');
